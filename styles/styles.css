@@ -17,6 +17,11 @@ body {
   background-color: var(--color-base);
 }
 
+::selection {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+}
+
 .main--container {
   text-align: center;
   background-color: var(--primary-color);
