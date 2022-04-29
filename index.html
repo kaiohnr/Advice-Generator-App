@@ -17,9 +17,17 @@
           "It is easy to sit up and take notice, what's difficult is getting up and taking
           action."
         </p>
-        <img class="main--container__divider" src="./images/pattern-divider-mobile.svg" alt="" />
+        <picture>
+          <source media="(min-width: 768px)" srcset="./images/pattern-divider-desktop.svg"/>
+          <source media="(min-width: 375px)" srcset="./images/pattern-divider-mobile.svg"/>
+          <img
+            class="main--container__divider"
+            src="./images/pattern-divider-mobile.svg"
+            alt=""
+          />
+        </picture>
         <div class="roll-dice--container">
-          <img class="dice__image" src="./images/icon-dice.svg" alt="">
+          <img class="dice__image" src="./images/icon-dice.svg" alt="" />
         </div>
       </div>
     </main>
