@@ -21,9 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot1.jpg)
-![](./screenshot2.jpg)
-
+![](./screenshots/screenshot1.jpg)
+![](./screenshots/screenshot2.jpg)
 
 ### Links
 
@@ -38,4 +37,3 @@ Users should be able to:
 - JavaScript
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
-
