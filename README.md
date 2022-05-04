@@ -19,11 +19,6 @@ Users should be able to:
 
 - Change the advice text after clicking on the button.
 
-### Screenshot
-
-![](./screenshots/screenshot1.jpg)
-![](./screenshots/screenshot2.jpg)
-
 ### Links
 
 - Solution URL: (https://github.com/kaiohnr/Advice-Generator-App)
